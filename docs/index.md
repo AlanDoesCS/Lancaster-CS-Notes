@@ -5,7 +5,8 @@ nav_order: 1
 
 # Lancaster CS Notes
 Welcome to my notes site on Lancaster CS G400 (2025-2028) - Good luck with revising!
-- Alan :)
+
+\- Alan :)
 
 *Based on the syllabus at:*  
 [https://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-bsc-hons-g400/2025/](https://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-bsc-hons-g400/2025/)
