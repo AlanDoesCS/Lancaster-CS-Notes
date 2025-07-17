@@ -1,4 +1,4 @@
-# Fundamentals of computer science
+# Fundamentals of Computer Science
 
 ## 1. Foundations of reasoning
 
